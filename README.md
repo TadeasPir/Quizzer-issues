@@ -21,7 +21,7 @@ If you've encountered a bug or have a suggestion, please open a new issue here. 
 
 ## 🚀 Feature Requests
 Have an idea to make the platform even better? We'd love to hear it!
-- [Open a Feature Request](https://github.com/TadeasPir/YOUR_ISSUES_REPO_NAME/issues/new?labels=enhancement)
+- [Open a Feature Request](https://github.com/TadeasPir/Quizzer-issues/issues/new?labels=enhancement)
 
 ## 🛡️ Guidelines
 - **Search First**: Before opening a new issue, check if it has already been reported.
